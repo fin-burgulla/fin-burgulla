@@ -12,7 +12,6 @@
 <p align="center">
   <a href="mailto:burgullasj@gmail.com"><img src="https://img.shields.io/badge/Email-burgullasj%40gmail.com-333333?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/serafin-burgulla"><img src="https://img.shields.io/badge/LinkedIn-Serafin%20Burgulla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <img src="https://profile-counter.glitch.me/fin-burgulla/count.svg" alt="Visitor count">
 </p>
 
 ## About me

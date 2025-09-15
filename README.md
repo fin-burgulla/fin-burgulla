@@ -10,8 +10,8 @@
 
 <!-- Quick links -->
 <p align="center">
-  <a href="mailto:burgullasj@gmail.com"><img src="https://img.shields.io/badge/Email-burgullasj%40gmail.com-333333?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/serafin-burgulla"><img src="https://img.shields.io/badge/LinkedIn-Serafin%20Burgulla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:sb2318@georgetown.edu"><img src="https://img.shields.io/badge/Email-sb2318%40georgetown.edu-333333?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/fin-burgulla"><img src="https://img.shields.io/badge/LinkedIn-Serafin%20Burgulla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ## About me

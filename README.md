@@ -56,14 +56,6 @@ I study Computer Science and Mathematics at Georgetown University. I build end-t
 
 Add repository links for each project when you publish them.
 
-## Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fin-burgulla&show_icons=true&hide_title=true">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fin-burgulla">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fin-burgulla&layout=compact">
-</div>
-
 ## My contributions
 
 <div align="center">

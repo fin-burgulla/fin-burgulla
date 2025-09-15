@@ -54,19 +54,8 @@ I study Computer Science and Mathematics at Georgetown University. I build end-t
 * Cleaned and modeled local business data to produce actions the board could use  
 * Presented a clear plan for next steps instead of a static report  
 
-Add repository links for each project when you publish them.
-
-## My contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fin-burgulla/fin-burgulla/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/fin-burgulla/fin-burgulla/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 ## Get in touch
 
-* Email me at burgullasj@gmail.com  
+* Email me at sb2318@georgetown.edu 
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/fin-burgulla)  
 

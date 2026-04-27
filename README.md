@@ -5,7 +5,7 @@
 
 <!-- Typing headline -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=36&center=true&vCenter=true&width=900&height=60&lines=Serafin+Burgulla;CS+and+Math+at+Georgetown;Builder+of+AI+tools+and+web+apps;Data+to+impact" alt="Typing intro">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=36&center=true&vCenter=true&width=900&height=60&lines=Serafin+Burgulla;Political+Economy+at+Georgetown;;Data+to+impact" alt="Typing intro">
 </h1>
 
 <!-- Quick links -->
